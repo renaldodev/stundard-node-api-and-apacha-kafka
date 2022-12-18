@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Test 2",
+    "email": "test3@test.com",
+    "category": "biolu",
+    "_id": 63633
+  },
+  {
+    "name": "Test",
+    "email": "test@test.com",
+    "category": "biolu",
+    "_id": 63443
+  },
+  {
+    "name": {
+      "_id": 1671382247721.0085,
+      "name": "renaldo",
+      "email": "Rui",
+      "category": "blogger"
+    }
+  },
+  {
+    "name": {
+      "_id": 1671382262679.8494,
+      "name": "renaldo",
+      "email": "Rui",
+      "category": "blogger"
+    }
+  },
+  {
+    "name": {
+      "_id": 1671383970660.136,
+      "name": "renaldo",
+      "email": "Rui",
+      "category": "blogger"
+    }
+  },
+  {
+    "name": {
+      "_id": 1671385688901.9207,
+      "name": "renaldo",
+      "email": "Rui",
+      "category": "blogger"
+    }
+  }
+]
